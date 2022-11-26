@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T03:15:14.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yWgJKI-_8sxgFjau9MnG" version="20.6.0" type="github"><diagram id="J1sLrtX11DQmOzzdEnN7" name="페이지-1">3Vldb5swFP01lraHRth82Y8YaDtNkyb1odsjDW5AIyECsqT79bONHSBOulZrS8hLZF8bMOfccz8IsMPl7qZK1tm3MmUFQFa6A3YEEPJ9xH+F4ak1eL7XGhZVnrYm2Bnu8j9MGS1l3eQpqwcbm7Ismnw9NM7L1YrNm4EtqapyO9z2WBbDp66TBTMMd/OkMK33edpkrRUjv7PfsnyR6SdDj7Qry0RvVm9SZ0labnsmOwZ2WJVl046Wu5AVAjuNS3vd9YnV/cEqtmpecsH9lXv78+Zrs6i+/3j4WRe4+HJ7pe7yOyk26oVBHAISAYrFACMQhHwdgjgCmM/1uzRPGqCq3KxSJp5hAZtus7xhd+tkLla33CO4LWuWBZ9BPjTPrA/Aqobteib1DjesXLKmeuJb1KqtjvA09JNtRw7UW7IeMY6yJcofFvsbd5DxgULtFQiilyGIzgdBhO3zgtA+AmEg8KOWQI0EAEfnA597bh7oHPVATAEJpSvGgEADtR4maVJnQ/zqIX48cq3FdLlbiBg/Sx/TWd0kVfMGaDr+zB3AiU04ifuBaPoGmnDG5yCmyv8EtjbAUGNryVVudEAgB/xXnNgr+FHpQ8VHCzH6JC8IAHHEgPK4EKkrqQ8CLD3dBQH5/IyHw397ePJQl8WmYUE1V9lUWruZIxhtqvLXPqGh94nM3tjCwAaVaKYg50hjrMjixLX8UhtQR4YeKAbK6IkN7SU0lEYeia4BJnKndSwkmfD2CDpU02NRbucZV9MsZfO8zsvVCZLfgCI41Noe+j5F3hGK8HtRRAyKXE0RZ0BgHCm1IaujS0iFAIK18qjIsV2yPVSeZC/UNFIhWZVWWj45ja6+gyPIvwwB2qMLUKfGHr3e/9M7UbE5o4sNmtW+f5DbIlErqLohktGwK2GHIdIWZF2GUFzP0UXIeFIx+wg8O62KQBQQtF9uTFQV3viqMOtnCE9EKQG334Wrgy5P6MOS6qGCFUouRB/++InENTnqarkYYFdy5A8jVqg3+Eoq/JcX2uhoiRCIMpwXeC3XgsRAsi/DXuAdyzzTZBMfU9zHsukZbMoUBIWgJtOoEmTi+KGdKjRbVfuZlGF2LdbJjpT3RgTr2muyaf7wQxcaP46ZLanzKsqmkuWRhwfQ2+On+ZOtZi9x9JO74AP3ssY0NXD4tXL8plCHzR4RZF9uIRV3iPT4lh1uIVCVW+RiiPDGJ8JsB6F1qvCVHV/3ISxSH0vIvsaKFUmT/oJySNJ7Vr582v35J9d6/6Da8V8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-26T04:33:52.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1gMr7Xc9kuNB2GETHfNL" version="20.6.0" type="github">
+  <diagram id="J1sLrtX11DQmOzzdEnN7" name="페이지-1">
+    <mxGraphModel dx="772" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-1" value="인사 1팀" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-2" value="인사 2팀" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="283" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-3" value="기획팀" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="10" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-4" value="시작" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="47.5" y="80" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-7" value="1. 요청 수신" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-8" value="2. 안전 보건 분야 평가" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="15" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-9" value="5. 촉탁 전환 심사&lt;br&gt;위원회 구성" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="283" y="460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-10" value="6. 촉탁 전환 심사" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="268" y="545" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-11" value="7. 대표이사 보고" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="564.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-12" value="8. 전환 결정" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="15" y="640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-14" value="11. 촉탁직 인사발령" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="760" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-15" value="12. 입퇴사, 연차,&lt;br&gt;근태관리" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="840" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-16" value="끝" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="47.5" y="920" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-17" value="3. 전환 평가 요청 수신" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="283" y="260" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-18" value="4. 전환 평가" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="268" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-19" value="5. 퇴직 절차" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="530" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-20" value="9. 처우 협의" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="530" y="660" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W-5HYGKtgrPXbYsl8lIH-21" value="10. 촉탁계약서 작성" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="530" y="760" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
